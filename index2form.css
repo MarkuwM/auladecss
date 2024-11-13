@@ -1,0 +1,31 @@
+h1 {
+    background-color: greenyellow;
+    border: 3px solid black;
+    color: darkgreen;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-family: Verdena;
+    text-indent: 10%;
+    font-size: 20px;
+}
+button {
+    background-color: blueviolet;
+    border: 3px solid black;
+    color: pink;
+    font-size: 20px;
+}
+a {
+    background-color: blueviolet;
+    border: 3px solid black;
+    color: pink;
+    font-size: 20px;
+}
+h1:hover {
+    background-color: red;
+}
+a:hover {
+    background-color: red;
+}
